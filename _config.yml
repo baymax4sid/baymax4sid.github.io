@@ -17,11 +17,13 @@ linkedin_username: siddhant-kapoor-9a8392a1
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Siddhant and I'm a Software Developer. Apart from making great software and web apps, I also have experience developing AI models and I have made a couple of mobile apps. I have worked on a number of projects gaining teamwork and leadership skills.
+  Hi, my name is Siddhant and I'm a Software Developer. Apart from making great software and web apps, I also have experience developing AI models and I have made a couple of mobile apps. I have worked on a number of projects gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>Java</mark> and <mark>Spring Boot</mark>. 
+  I am most skilled in: <mark>Java</mark> and <mark>Spring Boot</mark>.
+  
   I am most proud and thankful for my <mark>Logical</mark>, <mark>Problem Solving</mark> and <mark>Analytical</mark> skills.
-  I am passionate about making an <mark>AI</mark> model that can be used for some good purpose.
+  
+  Also, I am passionate about making an <mark>AI</mark> model that can be used for some good purpose.
 
 # Projects Section
 # projects_title: Projects
@@ -41,7 +43,9 @@ more_content: | # this will include new lines to allow paragraphs
    - Cycling
 
 # Footer
-footer_show_references: false
+footer_show_references: true
+
+darkmode: true
 
 # Build settings
 remote_theme: sproogen/resume-theme
