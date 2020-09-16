@@ -1,7 +1,6 @@
 - layout: top-middle
   name: Spark
   link: github.com/sproogen
-  github: sproogen/resume-theme
   quote: >
     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
@@ -10,4 +9,5 @@
 - layout: top-middle
   name: CER
   description:
-  - hello my friend.
+    - hello my friend.
+    - hello my friend.
