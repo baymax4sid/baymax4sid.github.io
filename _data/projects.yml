@@ -10,7 +10,7 @@
     - Developed an audit reporting tool which is now exclusively used in our company to interpret user actions stored 
     as database audit entries and converted to readable sentences along with user info into an excel sheet.
     - Maintaining and resolving back end bugs reported across the website.
-    - Key Tools:<mark>Java</mark>, <mark>Spring Boot</mark> & <mark>Angular</mark>
+    - Key Tools:<mark>Java</mark>, <mark>Spring Boot</mark>, <mark>MySQL</mark> & <mark>Angular</mark>
     
 - layout: top-middle
   name: CER
@@ -20,7 +20,7 @@
     - Developed the Security module from scratch and integrated with AD.
     - Developed the employee module from scratch (Backend and Frontend).
     - Developed Generic API for Data Retreival from backend.
-    
+    - Key Tools:<mark>Java</mark>, <mark>Spring Boot</mark> & <mark>Angular 9</mark>
 - layout: top-middle
   name: Fantasy Football Predictor
   github: baymax4sid/FPL-Predictor
